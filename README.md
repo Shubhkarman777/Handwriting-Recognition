@@ -2,8 +2,9 @@
 Developed a neural network to recognize handwritten document and convert it into text document. After this, the text document is checked for plagiarism.
 
 # Dataset
+Visit this link to download the dataset:
 http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
-Visit this link to download the dataset.
+
 
 # Pre-requisites
 1. Python 3.4
